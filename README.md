@@ -2,9 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=260&section=header&text=Ravi%20Sharma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;MERN+Stack+Developer;React+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=I'm Ravi Sharma;Full+Stack+Developer;MERN+Stack+Developer;React+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 <br/>
 
