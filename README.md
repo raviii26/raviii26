@@ -68,59 +68,6 @@ I enjoy building **modern, responsive, and scalable web applications** using the
 
 </div>
 
-<p align="center">
-  <b>Frontend:</b> React • Next.js • Tailwind CSS • Bootstrap • Redux • Vite
-  <br/>
-  <b>Backend:</b> Node.js • Express.js • .NET • MongoDB • MySQL • Firebase
-  <br/>
-  <b>Languages:</b> JavaScript • TypeScript • Java • Python • C • HTML • CSS
-  <br/>
-  <b>Tools:</b> Git • GitHub • Docker • Postman • VS Code • Figma • AWS • Vercel
-</p>
-
----
-
-## 💼 Experience
-
-### 🚀 Full Stack Developer — OMY Infotech, Surat
-**Sep 2025 – Present**
-
-- Developing responsive web applications using **React.js, Angular, HTML, CSS, JavaScript, and TypeScript**
-- Building RESTful APIs using **.NET and MySQL**
-- Working on scalable frontend architectures and backend integrations
-
-### 💻 MERN Stack Developer Intern — Tec-Fusion Technologies
-**Jan 2025 – Apr 2025**
-
-- Built full-stack applications using **React, Node.js, Express, and MongoDB**
-- Implemented authentication, APIs, and responsive UI components
-- Collaborated with developers using **Git & GitHub**
-
----
-
-## 🚀 Featured Projects
-
-### 🩸 Blood Bank Management System
-- Full-stack blood donor and request management platform
-- Role-based authentication and dashboard
-- **Tech:** React, Node.js, Express, MongoDB
-
-### 🏥 Doctor Appointment System
-- Online appointment booking platform
-- Admin and Doctor dashboards
-- JWT Authentication & Payment Integration
-- **Tech:** MERN Stack
-
-### 🍽️ Canteen Automation System
-- Food ordering and management application
-- Real-time order tracking
-- **Tech:** React, Express, MongoDB
-
-### 🌐 Personal Portfolio
-- Modern animated portfolio website
-- Responsive design with dark/light mode
-- **Tech:** React, Tailwind CSS, Framer Motion
-
 ---
 
 ## 📊 GitHub Statistics
