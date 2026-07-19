@@ -62,28 +62,20 @@ I enjoy building **modern, responsive, and scalable web applications** using the
 
 ## 💻 Tech Stack
 
-### Languages
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,dotnet,js,ts,html,css,tailwind,bootstrap,redux,vite,firebase,git,github,docker,postman,vscode,figma,aws,vercel,python,java,c&theme=dark&perline=8" />
+
+</div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,c" />
-</p>
-
-### Frontend Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,vite" />
-</p>
-
-### Backend Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,dotnet" />
-</p>
-
-### Tools & Platforms
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker,aws,vercel" />
+  <b>Frontend:</b> React • Next.js • Tailwind CSS • Bootstrap • Redux • Vite
+  <br/>
+  <b>Backend:</b> Node.js • Express.js • .NET • MongoDB • MySQL • Firebase
+  <br/>
+  <b>Languages:</b> JavaScript • TypeScript • Java • Python • C • HTML • CSS
+  <br/>
+  <b>Tools:</b> Git • GitHub • Docker • Postman • VS Code • Figma • AWS • Vercel
 </p>
 
 ---
