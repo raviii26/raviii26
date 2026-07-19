@@ -2,8 +2,6 @@
 
 <div align="center">
 
-
-
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;MERN+Stack+Developer;React+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 <br/>
@@ -92,16 +90,6 @@ I enjoy building **modern, responsive, and scalable web applications** using the
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=raviii26&theme=algolia&no-frame=true&column=7&margin-w=10&margin-h=10" />
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -109,46 +97,6 @@ I enjoy building **modern, responsive, and scalable web applications** using the
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=raviii26&theme=react-dark&hide_border=true" width="100%"/>
 
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/raviii26/raviii26/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
-
-## 📅 2026 Goals
-
-- [x] Build a professional developer portfolio
-- [x] Contribute to open-source projects
-- [x] Learn advanced React patterns
-- [ ] Master System Design
-- [ ] Deploy applications on AWS
-- [ ] Build SaaS products
-- [ ] Reach **500+ GitHub contributions**
-
----
-
-## 📌 Pinned Repositories
-
-<div align="center">
-
-<a href="https://github.com/raviii26/YOUR-REPO">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=raviii26&repo=YOUR-REPO&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/raviii26/YOUR-REPO2">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=raviii26&repo=YOUR-REPO2&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-> Replace `YOUR-REPO` and `YOUR-REPO2` with your actual repository names.
 
 ---
 
@@ -170,11 +118,9 @@ I enjoy building **modern, responsive, and scalable web applications** using the
 
 I'm actively looking for **Full Stack / React Developer opportunities**.
 
-📧 **Email:** YOURMAIL@gmail.com
+📧 **Email:** sharmaravii70415@gmail.com
 
-💼 **LinkedIn:** https://linkedin.com/in/YOUR-LINKEDIN
-
-🌐 **Portfolio:** https://yourportfolio.vercel.app
+💼 **LinkedIn:** https://linkedin.com/in/ravisharma2610
 
 </div>
 
