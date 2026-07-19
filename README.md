@@ -2,15 +2,15 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=I'm Ravi Sharma;Full+Stack+Developer;MERN+Stack+Developer;React+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=260&section=header&text=Ravi%20Sharma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
 
-<br/>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=raviii26&label=Profile%20Views&style=for-the-badge&color=2563EB" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/raviii26?style=for-the-badge&color=7C3AED" alt="Followers" />
-<img src="https://img.shields.io/github/stars/raviii26?affiliations=OWNER&style=for-the-badge&color=F59E0B" alt="Stars" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=2563EB&center=true&vCenter=true&width=950&lines=👋+Welcome+to+my+GitHub+Profile;I'm+Ravi+Sharma;Full+Stack+Developer;MERN+Stack+Developer;React+Developer;Building+Scalable+Web+Applications;Open+to+Full-Time+Opportunities;Always+Learning+New+Technologies" alt="Typing SVG"/>
 
 </div>
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=raviii26&label=Profile%20Views&style=for-the-badge&color=2563EB" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/raviii26?style=for-the-badge&color=7C3AED" alt="Followers" />
