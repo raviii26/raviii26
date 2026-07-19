@@ -132,6 +132,4 @@ I'm actively looking for **Full Stack / React Developer opportunities**.
 
 If you like my work, consider **starring** my repositories and following me on GitHub.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=140&section=footer" width="100%"/>
-
 </div>
